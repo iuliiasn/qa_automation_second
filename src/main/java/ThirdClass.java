@@ -39,17 +39,7 @@ public class ThirdClass {
            // }
           //  String[] arr = {"first", "second", "third"}
 
-        for (int i = 0; i <= 9; i++ ){
-            if (i==5){
-                //break;
-                continue;
-            }
-            System.out.println(i);
-        }
 
-        }
-        public static void main (String[] args)
-        {hello2("Hello"); }
     }
 
 
