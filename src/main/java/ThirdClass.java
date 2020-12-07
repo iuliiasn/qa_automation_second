@@ -56,9 +56,7 @@ public class ThirdClass {
 
         }
         public static void main (String[] args)
-        {hello2("Hello");
-
-        }
+        {hello2("Hello"); }
     }
 
 
