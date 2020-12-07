@@ -47,13 +47,6 @@ public class ThirdClass {
             System.out.println(i);
         }
 
-        public void hello (String message){
-        System.out.println(message);
-    }
-
-        public String hello2 (){
-        return message + "work";
-
         }
         public static void main (String[] args)
         {hello2("Hello"); }
